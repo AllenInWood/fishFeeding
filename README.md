@@ -1,8 +1,13 @@
 # fishFeeding
 A small device-adaptive H5 game to feed the fish.
 
-# Feature
+## Feature
 Responsive
+* [Game loop](https://github.com/AllenInWood/fishFeeding/tinyHeart/js/main.js#L65)
+Element monitor
 
-# Download
-git clone 
+
+## Download
+```bash
+git clone https://github.com/AllenInWood/fishFeeding.git
+```
